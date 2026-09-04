@@ -4,7 +4,8 @@
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <p align="center">
-  <img src="YOUR_NEW_BANNER_LINK_HERE" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
+  <img src="![Uploading image.png…]()
+" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
 </p>
 <!-- ===================== INTRO ===================== -->
 
