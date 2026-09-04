@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=React+Native+%2B+Socket.IO+Dev;F5-TTS+%26+LangChain+Explorer;C%2B%2B%2C+Java%2C+%26+Python" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=System.out.println(%22Welcome%22);&fontSize=40&fontColor=00ff00&animation=twinkling&desc=Zod%20%7C%20Helmet%20%7C%20JWT%20%7C%20WebRTC&descSize=20&descAlign=50&descAlignY=70" />
+</p>
 <h1 align="center">Hi 👋, I'm Chetan Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
