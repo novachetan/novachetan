@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Hi,%20I'm%20Chetan%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20WebRTC%20%7C%20AI%20Voice%20Generation&descSize=20&descAlignY=70" />
+</p>
 <h1 align="center">Hi 👋, I'm Chetan Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
