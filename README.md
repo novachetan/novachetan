@@ -16,6 +16,11 @@
   <b>Computer Engineering Student • Full-Stack Developer • Problem Solver</b>
 </p>
 
+<!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
+<p align="center">
+  <img src="YOUR_NEW_BANNER_LINK_HERE" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
+</p>
+
 <p align="center">
   I build real-world applications, learn new technologies,
   and turn ideas into working software.
