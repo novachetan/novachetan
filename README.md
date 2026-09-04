@@ -46,9 +46,7 @@
 
 <!-- STATISTICS GRAPH -->
 <h3 align="center">📈 Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="90%" alt="Contribution Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=react-dark&novachetan=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="90%" alt="Contribution Graph" />
 
 <br>
 
