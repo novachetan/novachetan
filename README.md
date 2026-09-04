@@ -56,7 +56,8 @@
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td width="35%" align="center" style="border: none; background: transparent;">
-      <img src="https://i.ibb.co/HnJ0S88/Chetan-Cartoon-Avatar.png" width="180" style="border-radius: 15px;" alt="Avatar" />
+      <img src="![Uploading Gemini_Generated_Image_2s3hip2s3hip2s3h.png…]()
+" width="180" style="border-radius: 15px;" alt="Avatar" />
     </td>
     <td width="65%" style="border: none; background: transparent; font-size: 16px; line-height: 1.5;">
       Hello! My name is <b>Chetan Pawar</b>, and I am a final-year Computer Science student. I am passionate about full-stack development, AI, and backend architecture security. I have gained practical industry experience through web development internships at Clinchlogic Technologies and Atlys Nexus Innovations. Currently, I am building a real-time WebRTC chat application and a prompt-driven AI voice generation model, constantly honing my skills to solve complex problems in the tech industry.
