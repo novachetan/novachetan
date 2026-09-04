@@ -4,7 +4,8 @@
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <p align="center">
-  <img src="![Uploading image.png…]()
+  <img src="![Uploading Blue White Aesthetic Welcome to My Profile Twitter Header.png…]()
+
 " width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
 </p>
 <!-- ===================== INTRO ===================== -->
