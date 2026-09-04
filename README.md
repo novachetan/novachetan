@@ -1,12 +1,13 @@
-<!-- DYNAMIC WAVY BANNER -->
+<!-- YOUR CUSTOM CLOUD BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=250&section=header&text=Welcome%20to%20Chetan's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descAlignY=75" width="100%" alt="Profile Banner" />
+  <img src="https://i.ibb.co/F8M5C9V/chetan-pwawar-cloud-banner.jpg" width="100%" alt="Chetan's Cloud Banner" style="border-radius: 10px;" />
 </p>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL LINKS (UPDATED TO MATCH PINTEREST & GMAIL SHOWN) -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/chetan-pwawar-username"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chetanpwawar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="YOUR_PINTEREST_LINK_HERE"><img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
 </p>
 
 <br>
@@ -34,7 +35,7 @@
 <!-- STATISTICS GRAPH -->
 <h3 align="center">📈 Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="90%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanPwawar&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="90%" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -44,10 +45,11 @@
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td width="35%" align="center" style="border: none; background: transparent;">
-      <img src="https://i.pinimg.com/736x/11/49/af/1149af978931bfa282d3e23071bb2f4d.jpg" width="180" style="border-radius: 15px;" alt="Avatar" />
+      <!-- This is the cartoon avatar. Replace this URL with your own avatar image. -->
+      <img src="https://i.ibb.co/HnJ0S88/Chetan-Cartoon-Avatar.png" width="180" style="border-radius: 15px;" alt="Avatar" />
     </td>
     <td width="65%" style="border: none; background: transparent; font-size: 16px; line-height: 1.5;">
-      Hello! My name is <b>Chetan Pawar</b>, and I am a Computer Science student. I am passionate about learning new technologies, developing innovative projects like AI voice generation models, and solving complex problems through programming. Currently, I am honing my skills in <b>JavaScript, Node.js, Python, and Full-Stack Development</b>, focusing on building robust applications and continuously growing within the tech industry.
+      Hello! My name is <b>Chetan Pwawar</b>, and I am a Computer Science student. I am passionate about learning new technologies, developing innovative projects like AI voice generation models, and solving complex problems through programming. Currently, I am honing my skills in <b>JavaScript, Node.js, Python, and Full-Stack Development</b>, focusing on building robust applications and continuously growing within the tech industry.
     </td>
   </tr>
 </table>
