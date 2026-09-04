@@ -1,4 +1,10 @@
-v
+<p align="center">
+  <!-- Replace with your hosted Figma export URL -->
+  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Anime themed GitHub Banner" />
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=React+Native+%2B+Socket.IO+Dev;F5-TTS+%26+LangChain+Explorer;C%2B%2B%2C+Java%2C+%26+Python" alt="Typing SVG" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Chetan Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
