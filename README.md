@@ -1,12 +1,10 @@
-
+<img width="1500" height="500" alt="Blue White Aesthetic Welcome to My Profile Twitter Header" src="https://github.com/user-attachments/assets/dbba065f-c89d-488e-a81b-982ec8a4d643" />
 <!-- ===================== HERO BANNER ===================== -->
 
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <p align="center">
-  <img src="![Uploading Blue White Aesthetic Welcome to My Profile Twitter Header.png…]()
-
-" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
+  <img src="![Uploading Blue White Aesthetic Welcome to My Profile Twitter Header.png…]()" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
 </p>
 <!-- ===================== INTRO ===================== -->
 
