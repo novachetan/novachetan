@@ -1,11 +1,9 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 
+<!-- YOUR PREMIUM CLOUD NETWORK BANNER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=CHETAN%20PAWAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%3C%20Software%20Engineering%20Student%20%2F%3E&descSize=22&descAlignY=62&animation=fadeIn"
-    width="100%"
-  />
+  <img src="YOUR_NEW_BANNER_LINK_HERE" width="100%" alt="Chetan's Premium Cloud Banner" style="border-radius: 10px;" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
